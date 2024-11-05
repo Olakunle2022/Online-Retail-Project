@@ -77,11 +77,13 @@ vi.	Dashboard Development
 Two Tableau dashboards were created to visualize key findings:
 
 **Sales Performance Dashboard:**
+
 Highlights overall sales metrics and customer contributions. This includes a map of sales by country, line charts for sales trends, an area chart for quarterly growth, and a Pareto chart for customer sales contribution.
 
  ![](SalesPerformanceDashboard.png) 
 
 **Order Cancellations Dashboard:**
+
 Provides insights into cancellation rates by date, product, and region. This features a line chart for cancellation trends, a donut chart for order completion versus cancellation, a tree map for product cancellation rates, and a bar chart for cancellations by country. 
 
   ![](OrderCancellationDashboard.png) 
