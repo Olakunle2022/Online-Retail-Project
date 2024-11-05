@@ -80,15 +80,21 @@ Two Tableau dashboards were created to visualize key findings:
 
 Highlights overall sales metrics and customer contributions. This includes a map of sales by country, line charts for sales trends, an area chart for quarterly growth, and a Pareto chart for customer sales contribution.
 
+
  ![](SalesPerformanceDashboard.png) 
+
 
 **Order Cancellations Dashboard:**
 
 Provides insights into cancellation rates by date, product, and region. This features a line chart for cancellation trends, a donut chart for order completion versus cancellation, a tree map for product cancellation rates, and a bar chart for cancellations by country. 
 
+
   ![](OrderCancellationDashboard.png) 
 
+
+
 ## 4.0 Integrated Analysis and Findings (Insight-Driven)
+
 
 **i. Insight into Profitable Sales Periods and Key Customer Segments**
 
@@ -122,9 +128,6 @@ Provides insights into cancellation rates by date, product, and region. This fea
 
 •	Findings: These insights indicate potential issues with product quality or description accuracy. Addressing these challenges can lead to improved inventory management and reduced cancellation rates, ultimately enhancing customer satisfaction and loyalty.
 
-## 5.0 Conclusion
-
-This analysis provided several insights into the company's sales performance and order cancellations. The peak sales period in Q4, the substantial contribution from a small group of high-value customers, and the identification of high-cancellation products and regions can inform data-driven business decisions. From this analysis, it’s clear that targeted customer engagement, inventory optimization, and a focus on high-value regions and products will drive growth and reduce cancellations.
 
 ## 6.0	Next Steps
 
