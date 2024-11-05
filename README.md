@@ -34,15 +34,17 @@ iv.	Frequent Cancellations of Specific Products
 
 ## 3.0 Data Overview, Transformation, and Key Metrics
 
-_i. Data Overview_
+**i. Data Overview**
 
 The dataset encompasses orders from various countries placed between December 2010 and December 2011, primarily from wholesale customers. Initially, the raw dataset contained 541,909 rows and 8 columns, capturing details such as transaction numbers, product codes, quantities, and country of origin.
-ii. Data Transformation
+
+**ii. Data Transformation**
 
 To ensure data quality and accuracy, a comprehensive data cleaning process was conducted in MS Excel while the metrics developed were performed in Tableau:
-iii.	Data Collection: The dataset was imported from an external CSV file for analysis.
 
-iv.	Data Cleaning Steps:
+**iii.	Data Collection:** The dataset was imported from an external CSV file for analysis.
+
+**iv.	Data Cleaning Steps:**
 
 a.	Removed records with missing CustomerID values to ensure reliable customer insights.
 
@@ -53,9 +55,11 @@ c.	Eliminated negative values in UnitPrice and Quantity, ensuring all transactio
 d.	Formatted UnitPrice values to GBP currency for consistency.
 
 Following these transformations, the dataset was reduced from 541,909 to 404,909 rows.
-v.	Key Metrics and Analysis
+
+**v.	Key Metrics and Analysis**
 
 Several critical metrics were developed to support further analysis, including:
+
 •	Average Order Value
 
 •	Order Cancellation Rate
@@ -72,17 +76,19 @@ vi.	Dashboard Development
 
 Two Tableau dashboards were created to visualize key findings:
 
-Sales Performance Dashboard: Highlights overall sales metrics and customer contributions. This includes a map of sales by country, line charts for sales trends, an area chart for quarterly growth, and a Pareto chart for customer sales contribution.
+**Sales Performance Dashboard:**
+Highlights overall sales metrics and customer contributions. This includes a map of sales by country, line charts for sales trends, an area chart for quarterly growth, and a Pareto chart for customer sales contribution.
 
  ![](SalesPerformanceDashboard.png) 
 
-Order Cancellations Dashboard: Provides insights into cancellation rates by date, product, and region. This features a line chart for cancellation trends, a donut chart for order completion versus cancellation, a tree map for product cancellation rates, and a bar chart for cancellations by country. 
+**Order Cancellations Dashboard:**
+Provides insights into cancellation rates by date, product, and region. This features a line chart for cancellation trends, a donut chart for order completion versus cancellation, a tree map for product cancellation rates, and a bar chart for cancellations by country. 
 
   ![](OrderCancellationDashboard.png) 
 
 ## 4.0 Integrated Analysis and Findings (Insight-Driven)
 
-i. Insight into Profitable Sales Periods and Key Customer Segments
+**i. Insight into Profitable Sales Periods and Key Customer Segments**
 
 •	Objective: Identify high-value customers and peak sales periods.
 
@@ -90,7 +96,7 @@ i. Insight into Profitable Sales Periods and Key Customer Segments
 
 •	Findings: This insight emphasizes the importance of focusing marketing efforts on high-value customers during peak sales periods, enabling the company to tailor promotions and enhance customer retention strategies effectively.
 
-ii. Order Cancellation Rates
+**ii. Order Cancellation Rates**
 
 •	Objective: Assess trends contributing to order cancellations.
 
@@ -98,7 +104,7 @@ ii. Order Cancellation Rates
 
 •	Findings: Understanding these cancellation trends allows the company to investigate potential operational issues or seasonal challenges. Targeted efforts to address these peaks could improve overall customer satisfaction and reduce cancellations.
 
-iii. Sales Distribution Analysis
+**iii. Sales Distribution Analysis**
 
 •	Objective: Evaluate sales performance across regions.
 
@@ -106,7 +112,7 @@ iii. Sales Distribution Analysis
 
 •	Findings: This geographic insight supports focused marketing strategies and resource allocation in high-performing regions, enhancing revenue generation efforts.
 
-iv Product-Specific Cancellation Insights
+**iv Product-Specific Cancellation Insights**
 
 •	Objective: Investigate cancellation rates for specific products.
 
@@ -120,19 +126,27 @@ This analysis provided several insights into the company's sales performance and
 
 ## 6.0	Next Steps
 
-i.	Implement Targeted Marketing Campaigns
+**i.	Implement Targeted Marketing Campaigns**
 
 Action: Develop and launch campaigns focused on the 26.75% of customers who generate the majority of sales.
+
 Responsibility:	Marketing team, with insights from the data analytics team.
+
 Timeline: Begin in the next quarter.
 
-ii.	Refine Inventory and Quality Control for High-Cancellation Products
+**ii.	Refine Inventory and Quality Control for High-Cancellation Products**
+
 Action: Adjust inventory and establish quality assurance measures for products with high cancellation rates.
+
 Responsibility: Operations and Quality Control teams.
+
 Timeline: Review stock and implement changes within two months.
 
-iii.	Introduce Cancellation-Reduction Measures in High-Risk Regions
+**iii.	Introduce Cancellation-Reduction Measures in High-Risk Regions**
+
 Action: Research reasons for cancellations in the USA, Czech Republic, and other high-risk regions and develop strategies to reduce them.
+
 Responsibility: Customer Service and International Strategy teams.
+
 Timeline: Conduct research in the next quarter, with strategy implementation by the following quarter.
 
