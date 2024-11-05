@@ -1,5 +1,5 @@
 # Online-Retail-Project
-Online-retail-shops-scaled.jpeg
+ ![](Online-retail-shops-scaled.jpeg)
 1.0 Introduction
 This case study focuses on analyzing e-commerce data from a UK-based online retailer that primarily sells unique all-occasion gifts to wholesalers. The dataset spans from December 2010 to December 2011, with records of transactions, cancellations, and customer demographics across various countries. This analysis addresses the company's key operational and sales challenges, such as understanding sales trends, cancellation patterns, and identifying the most valuable customers. Through data cleaning and exploration, insights were derived to understand customer purchasing behavior and improve business strategies. Assumptions include that all missing values in customer IDs were removed accurately, and that negative values in quantity and unit price were due to data entry errors are not actual transactions. The objectives are:
 i.	To Analyze Factors Contributing to Order Cancellations Identify the key factors driving high cancellation rates, with a particular focus on customer demographics, specific products, and trends based on country. 
