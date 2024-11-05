@@ -3,6 +3,7 @@
 ## 1.0 Introduction
 
 This case study focuses on analyzing e-commerce data from a UK-based online retailer that primarily sells unique all-occasion gifts to wholesalers. The dataset spans from December 2010 to December 2011, with records of transactions, cancellations, and customer demographics across various countries. This analysis addresses the company's key operational and sales challenges, such as understanding sales trends, cancellation patterns, and identifying the most valuable customers. Through data cleaning and exploration, insights were derived to understand customer purchasing behavior and improve business strategies. Assumptions include that all missing values in customer IDs were removed accurately, and that negative values in quantity and unit price were due to data entry errors are not actual transactions. The objectives are:
+
 i.	To Analyze Factors Contributing to Order Cancellations Identify the key factors driving high cancellation rates, with a particular focus on customer demographics, specific products, and trends based on country. 
 
 ii.	To Assess Customer Segmentation and Revenue Distribution Examine how sales contributions are distributed among different customer segments to explore opportunities for expanding the revenue base beyond the top customers. 
@@ -33,7 +34,7 @@ iv.	Frequent Cancellations of Specific Products
 
 ## 3.0 Data Overview, Transformation, and Key Metrics
 
-i. Data Overview
+_i. Data Overview_
 
 The dataset encompasses orders from various countries placed between December 2010 and December 2011, primarily from wholesale customers. Initially, the raw dataset contained 541,909 rows and 8 columns, capturing details such as transaction numbers, product codes, quantities, and country of origin.
 ii. Data Transformation
