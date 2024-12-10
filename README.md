@@ -89,7 +89,7 @@ Highlights overall sales metrics and customer contributions. This includes a map
 Provides insights into cancellation rates by date, product, and region. This features a line chart for cancellation trends, a donut chart for order completion versus cancellation, a tree map for product cancellation rates, and a bar chart for cancellations by country. 
 
 
-  ![](OrderCancellationDashboard.png) 
+  ![](order_cancellation_dashboard.png) 
 
 
 
