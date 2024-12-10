@@ -81,7 +81,7 @@ Two Tableau dashboards were created to visualize key findings:
 Highlights overall sales metrics and customer contributions. This includes a map of sales by country, line charts for sales trends, an area chart for quarterly growth, and a Pareto chart for customer sales contribution.
 
 
- ![](SalesPerformanceDashboard.png) 
+ ![](sales_performance_dashboard.png) 
 
 
 **Order Cancellations Dashboard:**
