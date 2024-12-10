@@ -12,6 +12,8 @@ iii.	To Evaluate Sales Patterns and Seasonal Trends Analyze sales trends on a qu
 
 iv.	To Investigate High-Cancellation Products and Identify Improvement Areas Review the products with the highest cancellation rates to uncover potential reasons behind these cancellations, allowing the retailer to enhance inventory management or marketing strategies for these items.
 
+**_Disclaimer: This project was created using a dataset from DataCamp, designed to support learning and skill development. The insights and findings are meant to showcase analytical techniques._**
+
 
 ## 2.0 Business Problems
 
