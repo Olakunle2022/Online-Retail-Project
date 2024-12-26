@@ -76,6 +76,7 @@ Several critical metrics were developed to support further analysis, including:
 
 vi.	Dashboard Development
 
+
 Two Tableau dashboards were created to visualize key findings:
 
 **Sales Performance Dashboard:**
