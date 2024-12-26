@@ -81,11 +81,13 @@ vi.	Dashboard Development
 Dive into these interactive **Sales Performance** and **Order Cancellations Dashboards** to explore key insights.
 
 ### 1. Sales Performance Dashboard
-[![View Workforce Composition Dashboard](https://img.shields.io/badge/View-Dashboard-orange?style=for-the-badge)](https://public.tableau.com/views/SalesPerformanceDashboard_17304794309490/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![View Workforce Composition Dashboard](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge)](https://public.tableau.com/views/SalesPerformanceDashboard_17304794309490/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ### 2. Order Cancellations Dashboard
-[![View Workforce Composition Dashboard](https://img.shields.io/badge/View-Dashboard-orange?style=for-the-badge)](https://public.tableau.com/views/OrderCancellationDashboard_17305707675020/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![View Workforce Composition Dashboard](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge)](https://public.tableau.com/views/OrderCancellationDashboard_17305707675020/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 
 
 Two Tableau dashboards were created to visualize key findings:
